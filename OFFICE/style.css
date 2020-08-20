@@ -1,0 +1,261 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.fs {
+    background-color: rgb(252,245,243);
+    padding-right: 300px;
+    padding-left: 300px;
+}
+.text {
+    font-size: bold;
+    text-align: center;
+    color: black;
+    width: 100%;
+    padding: 30px;
+    background-color: rgb(252,245,243);
+
+}
+h1 {
+    font-size: 50px;
+}
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 30px;
+    color: black;
+
+}
+.button{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 30px;
+    font-size: 16px;
+    max-width: 300px;
+    margin: auto;
+}
+
+.a--b{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 30px;
+    font-size: 16px;
+    max-width: 300px;
+    margin: auto;
+}
+
+.b-n{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 30px;
+    font-size: 16px;
+    max-width: 300px;
+    margin: auto;
+
+}
+
+.sam{
+    background-color: rgb(252,245,243);
+}
+
+.img>img{
+    margin-bottom: 5%;
+
+}
+.d-imgg>img{
+    margin-top: 0;
+    height: 100%;
+}
+.img{
+    text-align: center;
+    background-color: rgb(252,245,243);
+    height: 30%;
+    clip-path: polygon(0 0, 100% 0, 100% 30%, 100% 70%, 68% 92%, 29% 92%, 0% 70%, 0% 30%);
+}
+
+.kiva__card{
+    background-color: rgb(252,245,243);
+    height: 100%;
+    width: 80%;
+    margin: auto;
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-bottom: 90px;
+
+}
+
+.kiva__heading{
+    display: grid;
+    grid-template-rows: 30px 30px;
+    margin-top: 20%;
+}
+#b-n {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 20px;
+    font-size: 16px;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 30px;
+    
+}
+.article {
+    text-align: center;
+    color: black;
+    margin-top: 90px;
+    font-family: serif;
+}
+.column {
+    background-color: rgb(252,245,243);
+    text-align: center;
+}
+.video {
+    text-align: center;
+    margin-bottom: 150px;
+    margin-top: 150px;
+    
+}
+.design {
+    background-color: lightblue;
+    margin-top: 90px;
+    padding: 70px;
+    width: 100%;
+
+}
+.cad-p {
+    font-weight: 900px;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+}
+.s {
+    box-shadow: 3px 3px 3px 0px;
+
+}
+.card>img{
+
+    margin-top: 10px;
+
+}
+.bi-ground {
+    background-color: rgb(252,245,243);
+}
+.content {
+    margin-top: 300px;
+}
+.star {
+    background-color: lightblue;
+    font-size: 10px;
+    padding-top: 100px;
+    font-family: serif;
+}
+.star,h1 {
+    color: black;
+}
+h3 {
+    font-weight: bold;
+    color: black;
+}
+#logo {
+    background-color: white;
+}
+#logo,.row{
+    padding: 50px;
+}
+#logo,img {
+    fill: grey;
+}
+.bi-annual {
+    background-color: white;
+}
+.dollar {
+    background-color: bisque;
+    height: 25rem;
+    padding: 20px;
+    font-weight: bold;
+    font-family: serif;
+}.dollar,h6 {
+    color: grey;
+    font-family: sans-serif;
+}
+.dollar,h5 {
+    color: black;
+    font-weight: bold;
+    font-size: 1rem;
+}
+.Grid-center {
+    padding-top: 150px;
+    background-color: white;
+    font-family: serif;
+}
+#summit {
+    padding: 20px;
+    font-size: 15px;
+    margin: auto;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#submission {
+    padding: 20px;
+    font-size: 15px;
+    margin: auto;
+    background-color: black;
+    color: white;
+    border: none;
+}
+.footer-header {
+    background-color: rgb(252,245,243);
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 40rem;
+    font-family: Publicoheadline,sans-serif;
+    font-size: 20px;
+    padding: 200px;
+}
+.footer {
+    background-color: rgb(252,245,243);
+    font-size: 18px;
+    padding: 15px;
+}
+
+.footer,li {
+    list-style-type: none;
+    text-align: center;
+    padding: 10px;
+    line-height: 16px;
+    font-family: serif;
+}
+.footer-button {
+    width: auto;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    border: none;
+    margin: auto;
+}
+.end{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 30px;
+    font-size: 16px;
+    max-width: 300px;
+    margin: auto;
+}
+.active{
+    background-color: black;
+    border: none;
+    color: white !important;
+    padding: 30px;
+    font-size: 16px;
+    width: 90px;
+    padding-left: 30px;
+    margin-top: -10px;
+}

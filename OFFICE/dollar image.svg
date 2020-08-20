@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="91px" viewBox="0 0 34 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>money</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Upgrade" transform="translate(-606.000000, -44.000000)" stroke="#000000" stroke-width="4">
+            <g id="money" transform="translate(608.000000, 46.000000)">
+                <path d="M29.9936416,12 L13.9204506,12 C6.0010962,12.2396984 -0.226931166,18.8790014 0.00634491702,26.8329412 C-0.0625002304,32.3465357 2.89689567,37.4503141 7.70558334,40.1110588 L22.3243905,47.9115294 C27.1119363,50.5788381 30.056838,55.6688046 29.9936416,61.1670588 C30.227004,69.1152969 24.0079612,75.7521739 16.0945296,76 L0.00634491702,76" id="Path"></path>
+                <line x1="13" y1="76" x2="13" y2="87" id="Path"></line>
+                <line x1="21" y1="0" x2="21" y2="12" id="Path"></line>
+            </g>
+        </g>
+    </g>
+</svg>
